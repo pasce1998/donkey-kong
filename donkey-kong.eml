@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_1_8" jdk="IntelliJ IDEA IU-182.4892.20" jdk_type="IDEA JDK">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="eea.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/eea.jar!/"/>
+	</lib>
+	<lib name="lwjgl.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lwjgl.jar!/"/>
+	</lib>
+	<lib name="slick.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/slick.jar!/"/>
+	</lib>
+</component>

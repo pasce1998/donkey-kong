@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/21.0.6-win32-x86_64"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="c:/Desktop/DK Workspace/donkey-kong/eea.jar"/>
+	<classpathentry kind="lib" path="c:/Desktop/DK Workspace/donkey-kong/lwjgl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="native"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Desktop/DK Workspace/donkey-kong/slick.jar"/>
+	<classpathentry kind="lib" path="c:/Users/Pascal/.vscode/extensions/redhat.java-1.41.1-win32-x64/server/plugins/org.junit_4.13.2.v20240929-1000.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://junit.org/junit4/javadoc/latest/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/Pascal/.vscode/extensions/redhat.java-1.41.1-win32-x64/server/plugins/org.hamcrest_3.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
